@@ -10,13 +10,13 @@
 深度：
 
 <div align="center">
-<img src="https://i.loli.net/2018/05/08/5af18e285426f.png"  />
+<img src="https://i.loli.net/2018/05/08/5af18e28995d5.png"  />
 </div>
 
 伪彩色：
 
 <div align="center">
-<img src="https://i.loli.net/2018/05/08/5af18e28995d5.png"  />
+<img src="https://i.loli.net/2018/05/08/5af18e285426f.png"  />
 </div>
 
 <div align="center">
